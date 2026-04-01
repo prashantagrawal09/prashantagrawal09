@@ -40,7 +40,7 @@ I enjoy turning complex problems into simple, scalable solutions — whether it'
 
 ## 📫 Let's Connect
 
-* LinkedIn: [(https://www.linkedin.com/in/prashant-agrawal-b76667221/)]
+* LinkedIn: (https://www.linkedin.com/in/prashant-agrawal-b76667221/)
 * Email: [prashant017@e.ntu.edu.sg](mailto:prashant017@e.ntu.edu.sg)
 
 ---
